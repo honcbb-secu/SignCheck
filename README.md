@@ -3,6 +3,8 @@ SigCheck 是一個可驗證任何軟體程式數位簽名是否為合法，此�
 
 ![image](https://i.imgur.com/HVoTxzs.jpeg)
 
+[![Release](https://img.shields.io/badge/%E9%BB%9E%E6%88%91-%E4%B8%8B%E8%BC%89-brightgreen)](https://github.com/honcbb-secu/SignCheck/releases/download/V1.0/SigCheck.zip)
+
 ## Demo
 
 [![ScreenShot](https://i.imgur.com/MVksKr8.jpeg)](https://www.youtube.com/watch?v=pUcM9cL5uu0&feature=youtu.be)
