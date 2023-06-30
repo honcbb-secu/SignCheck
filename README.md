@@ -1,2 +1,4 @@
 # SignCheck
-SigCheck - is a verifiable program signature that is legitimate / 驗證軟體程式簽章合法性
+SigCheck 是一個可驗證任何軟體程式數位簽名是否為合法，此程式簽名驗證主要採用了Microsoft (微軟)官方所公開提供的"WinVerifyTrust API " 該方法，此程式並非**第三方**或者**微軟官方**所開發(僅為一個資安研究人員Honc) 所開發而成，另外原因也是提供了基本GUI便捷而非透過下指令方式來驗證更為順暢
+
+
